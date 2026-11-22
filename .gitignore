@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+data/
+*.zip
+.DS_Store
+Thumbs.db
